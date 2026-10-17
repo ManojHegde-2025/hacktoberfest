@@ -1,0 +1,4 @@
+pydantic>=2.0
+# Optional: official Google SDK. If it cannot be installed (e.g. Windows ARM),
+# the module automatically falls back to calling Google's REST API with the standard library.
+# google-genai
